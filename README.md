@@ -12,6 +12,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 
 # List of people who know git
 
+- [shayan bahrami :white_check_mark: ](https://github.com/shayan-bahrami)
 - [ralia79 😍](https://github.com/ralia79)
 - [Morteza Omidian 😍](https://github.com/morteza1131)
 - [Hosein Hobbi](https://github.com/HHobbi)
